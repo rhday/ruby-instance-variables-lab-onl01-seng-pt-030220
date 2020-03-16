@@ -6,7 +6,7 @@ class Dog
     @this_dogs_name
   end
 end
-lassie = Dog.new
-lassie.name = "Lassie"
+rover = Dog.new
+rover.name = "Rover"
  
-puts lassie.name
+puts rover.name
